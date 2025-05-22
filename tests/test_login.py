@@ -14,9 +14,9 @@ def test_valid_login(setup):
     try:
         expected_url = "https://www.saucedemo.com/inventory.html"
         assert expected_url == driver.current_url
-        print("Login Successful.")
+        print("Login Successful.Test Passed.")
     except AssertionError:
-        print("Login Failed.")
+        print("Bug: Login Test Failed for valid data.")
     except Exception as e:
         print(f"Error Occurred: {e}")
 
@@ -34,8 +34,8 @@ def test_invalid_login(setup):
         actual_error = driver.find_element(by=By.CSS_SELECTOR, value="h3[data-test='error']")
         actual_error_message = actual_error.text
         assert expected_error_massage==actual_error_message,"Error Message mismatch !!"
-        print("Login Failed.")
+        print("Login Test Passed for Invalid data.")
     except AssertionError:
-        print("Login Mismatch.")
+        print("Bug: Login Test Failed for Invalid data.")
     except Exception as e:
         print(f"Error Occurred: {e}")
