@@ -1,0 +1,30 @@
+2025-05-25 15:08:26,873 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:08:26,875 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:08:31,453 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:08:31,597 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:08:31,689 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:08:31,825 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:08:31,825 - TestLogin - INFO - Ending valid Login Test
+2025-05-25 15:08:35,673 - TestLogin - INFO - Staring invalid Login Test
+2025-05-25 15:08:35,674 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:08:37,013 - LoginPage - INFO - Entering Username: standard_user invalid
+2025-05-25 15:08:37,155 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:08:37,283 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:08:37,438 - TestLogin - INFO - Login Test Passed for Invalid data.
+2025-05-25 15:08:37,438 - TestLogin - INFO - Ending invalid Login Test
+2025-05-25 15:10:58,617 - TestLogin - INFO - ------------------------------
+2025-05-25 15:10:58,617 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:10:58,619 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:11:03,061 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:11:03,229 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:11:03,346 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:11:03,469 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:11:03,469 - TestLogin - INFO - Ending valid Login Test
+2025-05-25 15:11:03,469 - TestLogin - INFO - ------------------------------
+2025-05-25 15:11:07,347 - TestLogin - INFO - Staring invalid Login Test
+2025-05-25 15:11:07,349 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:11:10,076 - LoginPage - INFO - Entering Username: standard_user invalid
+2025-05-25 15:11:10,219 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:11:10,307 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:11:10,467 - TestLogin - INFO - Login Test Passed for Invalid data.
+2025-05-25 15:11:10,467 - TestLogin - INFO - Ending invalid Login Test
