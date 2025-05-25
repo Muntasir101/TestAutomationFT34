@@ -28,3 +28,143 @@
 2025-05-25 15:11:10,307 - LoginPage - INFO - Clicking Login Button
 2025-05-25 15:11:10,467 - TestLogin - INFO - Login Test Passed for Invalid data.
 2025-05-25 15:11:10,467 - TestLogin - INFO - Ending invalid Login Test
+2025-05-25 15:35:53,621 - TestLogin - INFO - ------------------------------
+2025-05-25 15:35:53,623 - TestLogin - INFO - Test started with username = 'standard_user'
+2025-05-25 15:35:53,623 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:35:53,624 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:35:54,714 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:35:54,894 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:35:55,008 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:35:55,190 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:35:55,191 - TestLogin - INFO - ------------------------------
+2025-05-25 15:35:59,169 - TestLogin - INFO - ------------------------------
+2025-05-25 15:35:59,170 - TestLogin - INFO - Test started with username = 'problem_user'
+2025-05-25 15:35:59,170 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:35:59,172 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:36:03,891 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:36:04,014 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:36:04,098 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:36:04,222 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:36:04,222 - TestLogin - INFO - ------------------------------
+2025-05-25 15:36:07,994 - TestLogin - INFO - ------------------------------
+2025-05-25 15:36:07,994 - TestLogin - INFO - Test started with username = 'performance_glitch_user'
+2025-05-25 15:36:07,994 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:36:07,995 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:36:08,791 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:36:08,957 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:36:09,067 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:36:09,232 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:36:09,232 - TestLogin - INFO - ------------------------------
+2025-05-25 15:36:13,049 - TestLogin - INFO - ------------------------------
+2025-05-25 15:36:13,050 - TestLogin - INFO - Test started with username = 'error_user'
+2025-05-25 15:36:13,051 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:36:13,051 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:36:13,815 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:36:13,996 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:36:14,129 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:36:14,264 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:36:14,265 - TestLogin - INFO - ------------------------------
+2025-05-25 15:36:18,067 - TestLogin - INFO - ------------------------------
+2025-05-25 15:36:18,067 - TestLogin - INFO - Test started with username = 'visual_user'
+2025-05-25 15:36:18,071 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:36:18,075 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:36:22,110 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:36:22,236 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:36:22,327 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:36:22,451 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:36:22,452 - TestLogin - INFO - ------------------------------
+2025-05-25 15:37:56,745 - TestLogin - INFO - ------------------------------
+2025-05-25 15:37:56,746 - TestLogin - INFO - Test started with username = 'standard_user'
+2025-05-25 15:37:56,747 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:37:56,748 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:38:00,658 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:38:00,778 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:38:00,866 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:38:01,032 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:38:01,032 - TestLogin - INFO - ------------------------------
+2025-05-25 15:38:04,860 - TestLogin - INFO - ------------------------------
+2025-05-25 15:38:04,861 - TestLogin - INFO - Test started with username = 'problem_user'
+2025-05-25 15:38:04,863 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:38:04,865 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:38:06,110 - LoginPage - INFO - Entering Username: problem_user
+2025-05-25 15:38:06,228 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:38:06,326 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:38:06,467 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:38:06,467 - TestLogin - INFO - ------------------------------
+2025-05-25 15:38:10,252 - TestLogin - INFO - ------------------------------
+2025-05-25 15:38:10,254 - TestLogin - INFO - Test started with username = 'performance_glitch_user'
+2025-05-25 15:38:10,256 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:38:10,258 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:38:11,533 - LoginPage - INFO - Entering Username: performance_glitch_user
+2025-05-25 15:38:11,680 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:38:11,814 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:38:16,946 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:38:16,947 - TestLogin - INFO - ------------------------------
+2025-05-25 15:38:20,765 - TestLogin - INFO - ------------------------------
+2025-05-25 15:38:20,765 - TestLogin - INFO - Test started with username = 'error_user'
+2025-05-25 15:38:20,766 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:38:20,767 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:38:21,810 - LoginPage - INFO - Entering Username: error_user
+2025-05-25 15:38:21,961 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:38:22,066 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:38:22,203 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:38:22,203 - TestLogin - INFO - ------------------------------
+2025-05-25 15:38:25,987 - TestLogin - INFO - ------------------------------
+2025-05-25 15:38:25,988 - TestLogin - INFO - Test started with username = 'visual_user'
+2025-05-25 15:38:26,002 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:38:26,004 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:38:27,255 - LoginPage - INFO - Entering Username: visual_user
+2025-05-25 15:38:27,366 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:38:27,469 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:38:27,624 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:38:27,624 - TestLogin - INFO - ------------------------------
+2025-05-25 15:40:53,059 - TestLogin - INFO - ------------------------------
+2025-05-25 15:40:53,059 - TestLogin - INFO - Test started with username = 'standard_user'
+2025-05-25 15:40:53,059 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:40:53,060 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:40:54,315 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:40:54,433 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:40:54,538 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:40:54,730 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:40:54,731 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:40:54,731 - TestLogin - INFO - ------------------------------
+2025-05-25 15:40:58,653 - TestLogin - INFO - ------------------------------
+2025-05-25 15:40:58,653 - TestLogin - INFO - Test started with username = 'problem_user'
+2025-05-25 15:40:58,654 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:40:58,654 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:40:59,476 - LoginPage - INFO - Entering Username: problem_user
+2025-05-25 15:40:59,679 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:40:59,859 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:41:00,012 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:41:00,012 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:41:00,012 - TestLogin - INFO - ------------------------------
+2025-05-25 15:41:03,769 - TestLogin - INFO - ------------------------------
+2025-05-25 15:41:03,770 - TestLogin - INFO - Test started with username = 'performance_glitch_user'
+2025-05-25 15:41:03,770 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:41:03,771 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:41:08,807 - LoginPage - INFO - Entering Username: performance_glitch_user
+2025-05-25 15:41:08,941 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:41:09,027 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:41:14,146 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:41:14,146 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:41:14,146 - TestLogin - INFO - ------------------------------
+2025-05-25 15:41:18,020 - TestLogin - INFO - ------------------------------
+2025-05-25 15:41:18,020 - TestLogin - INFO - Test started with username = 'error_user'
+2025-05-25 15:41:18,020 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:41:18,029 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:41:20,316 - LoginPage - INFO - Entering Username: error_user
+2025-05-25 15:41:20,426 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:41:20,510 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:41:20,663 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:41:20,663 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:41:20,663 - TestLogin - INFO - ------------------------------
+2025-05-25 15:41:24,466 - TestLogin - INFO - ------------------------------
+2025-05-25 15:41:24,466 - TestLogin - INFO - Test started with username = 'visual_user'
+2025-05-25 15:41:24,466 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:41:24,466 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:41:25,718 - LoginPage - INFO - Entering Username: visual_user
+2025-05-25 15:41:25,833 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:41:25,950 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:41:26,126 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:41:26,126 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:41:26,126 - TestLogin - INFO - ------------------------------
