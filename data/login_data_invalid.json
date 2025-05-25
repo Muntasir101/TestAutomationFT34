@@ -1,0 +1,22 @@
+[
+  {
+    "username": "standard_user",
+    "password": "asasdsad",
+    "expected": false
+  },
+  {
+    "username": "weweqwe",
+    "password": "secret_sauce",
+    "expected": false
+  },
+  {
+    "username": "asadasd",
+    "password": "asdasdd",
+    "expected": false
+  },
+  {
+    "username": "",
+    "password": "",
+    "expected": false
+  }
+]

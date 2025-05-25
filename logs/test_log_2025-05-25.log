@@ -168,3 +168,313 @@
 2025-05-25 15:41:26,126 - TestLogin - INFO - Login Successful.Test Passed.
 2025-05-25 15:41:26,126 - TestLogin - INFO - Ending Login Test
 2025-05-25 15:41:26,126 - TestLogin - INFO - ------------------------------
+2025-05-25 15:50:46,241 - TestLogin - INFO - ------------------------------
+2025-05-25 15:50:46,245 - TestLogin - INFO - Test started with username = 'standard_user'
+2025-05-25 15:50:46,245 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:50:46,246 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:50:47,203 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:50:47,424 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:50:47,605 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:50:47,840 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:50:47,840 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:50:47,841 - TestLogin - INFO - ------------------------------
+2025-05-25 15:50:51,664 - TestLogin - INFO - ------------------------------
+2025-05-25 15:50:51,664 - TestLogin - INFO - Test started with username = 'problem_user'
+2025-05-25 15:50:51,665 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:50:51,665 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:50:55,894 - LoginPage - INFO - Entering Username: problem_user
+2025-05-25 15:50:56,013 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:50:56,117 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:50:56,257 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:50:56,257 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:50:56,257 - TestLogin - INFO - ------------------------------
+2025-05-25 15:50:59,964 - TestLogin - INFO - ------------------------------
+2025-05-25 15:50:59,964 - TestLogin - INFO - Test started with username = 'performance_glitch_user'
+2025-05-25 15:50:59,965 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:50:59,965 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:51:01,199 - LoginPage - INFO - Entering Username: performance_glitch_user
+2025-05-25 15:51:01,342 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:51:01,443 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:51:06,605 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:51:06,605 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:51:06,605 - TestLogin - INFO - ------------------------------
+2025-05-25 15:51:10,372 - TestLogin - INFO - ------------------------------
+2025-05-25 15:51:10,373 - TestLogin - INFO - Test started with username = 'error_user'
+2025-05-25 15:51:10,373 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:51:10,374 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:51:15,050 - LoginPage - INFO - Entering Username: error_user
+2025-05-25 15:51:15,162 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:51:15,257 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:51:15,407 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:51:15,407 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:51:15,407 - TestLogin - INFO - ------------------------------
+2025-05-25 15:51:19,190 - TestLogin - INFO - ------------------------------
+2025-05-25 15:51:19,190 - TestLogin - INFO - Test started with username = 'visual_user'
+2025-05-25 15:51:19,191 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:51:19,191 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:51:19,976 - LoginPage - INFO - Entering Username: visual_user
+2025-05-25 15:51:20,130 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:51:20,238 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:51:20,381 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:51:20,381 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:51:20,381 - TestLogin - INFO - ------------------------------
+2025-05-25 15:51:24,201 - TestLogin - INFO - ------------------------------
+2025-05-25 15:51:24,202 - TestLogin - INFO - Test started with username = 'standard_user'
+2025-05-25 15:51:24,202 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:51:24,203 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:51:25,438 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:51:25,585 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:51:25,686 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:51:35,875 - TestLogin - INFO - Error Occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h3[data-test='error']"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7420BCF45+75717]
+	GetHandleVerifier [0x00007FF7420BCFA0+75808]
+	(No symbol) [0x00007FF741E88F9A]
+	(No symbol) [0x00007FF741EDF4C6]
+	(No symbol) [0x00007FF741EDF77C]
+	(No symbol) [0x00007FF741F32577]
+	(No symbol) [0x00007FF741F073BF]
+	(No symbol) [0x00007FF741F2F39C]
+	(No symbol) [0x00007FF741F07153]
+	(No symbol) [0x00007FF741ED0421]
+	(No symbol) [0x00007FF741ED11B3]
+	GetHandleVerifier [0x00007FF7423BD71D+3223453]
+	GetHandleVerifier [0x00007FF7423B7CC2+3200322]
+	GetHandleVerifier [0x00007FF7423D5AF3+3322739]
+	GetHandleVerifier [0x00007FF7420D6A1A+180890]
+	GetHandleVerifier [0x00007FF7420DE11F+211359]
+	GetHandleVerifier [0x00007FF7420C5294+109332]
+	GetHandleVerifier [0x00007FF7420C5442+109762]
+	GetHandleVerifier [0x00007FF7420ABA59+4825]
+	BaseThreadInitThunk [0x00007FFCA16DE8D7+23]
+	RtlUserThreadStart [0x00007FFCA28DC5DC+44]
+
+2025-05-25 15:51:35,875 - TestLogin - INFO - Ending Invalid Test
+2025-05-25 15:51:35,875 - TestLogin - INFO - ------------------------------
+2025-05-25 15:51:39,929 - TestLogin - INFO - ------------------------------
+2025-05-25 15:51:39,929 - TestLogin - INFO - Test started with username = 'problem_user'
+2025-05-25 15:51:39,929 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:51:39,931 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:51:41,178 - LoginPage - INFO - Entering Username: problem_user
+2025-05-25 15:51:41,320 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:51:41,433 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:51:51,590 - TestLogin - INFO - Error Occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h3[data-test='error']"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7420BCF45+75717]
+	GetHandleVerifier [0x00007FF7420BCFA0+75808]
+	(No symbol) [0x00007FF741E88F9A]
+	(No symbol) [0x00007FF741EDF4C6]
+	(No symbol) [0x00007FF741EDF77C]
+	(No symbol) [0x00007FF741F32577]
+	(No symbol) [0x00007FF741F073BF]
+	(No symbol) [0x00007FF741F2F39C]
+	(No symbol) [0x00007FF741F07153]
+	(No symbol) [0x00007FF741ED0421]
+	(No symbol) [0x00007FF741ED11B3]
+	GetHandleVerifier [0x00007FF7423BD71D+3223453]
+	GetHandleVerifier [0x00007FF7423B7CC2+3200322]
+	GetHandleVerifier [0x00007FF7423D5AF3+3322739]
+	GetHandleVerifier [0x00007FF7420D6A1A+180890]
+	GetHandleVerifier [0x00007FF7420DE11F+211359]
+	GetHandleVerifier [0x00007FF7420C5294+109332]
+	GetHandleVerifier [0x00007FF7420C5442+109762]
+	GetHandleVerifier [0x00007FF7420ABA59+4825]
+	BaseThreadInitThunk [0x00007FFCA16DE8D7+23]
+	RtlUserThreadStart [0x00007FFCA28DC5DC+44]
+
+2025-05-25 15:51:51,590 - TestLogin - INFO - Ending Invalid Test
+2025-05-25 15:51:51,590 - TestLogin - INFO - ------------------------------
+2025-05-25 15:51:56,985 - TestLogin - INFO - ------------------------------
+2025-05-25 15:51:56,986 - TestLogin - INFO - Test started with username = 'performance_glitch_user'
+2025-05-25 15:51:56,986 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:51:56,988 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:52:01,752 - LoginPage - INFO - Entering Username: performance_glitch_user
+2025-05-25 15:52:01,889 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:52:01,964 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:52:17,105 - TestLogin - INFO - Error Occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h3[data-test='error']"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7420BCF45+75717]
+	GetHandleVerifier [0x00007FF7420BCFA0+75808]
+	(No symbol) [0x00007FF741E88F9A]
+	(No symbol) [0x00007FF741EDF4C6]
+	(No symbol) [0x00007FF741EDF77C]
+	(No symbol) [0x00007FF741F32577]
+	(No symbol) [0x00007FF741F073BF]
+	(No symbol) [0x00007FF741F2F39C]
+	(No symbol) [0x00007FF741F07153]
+	(No symbol) [0x00007FF741ED0421]
+	(No symbol) [0x00007FF741ED11B3]
+	GetHandleVerifier [0x00007FF7423BD71D+3223453]
+	GetHandleVerifier [0x00007FF7423B7CC2+3200322]
+	GetHandleVerifier [0x00007FF7423D5AF3+3322739]
+	GetHandleVerifier [0x00007FF7420D6A1A+180890]
+	GetHandleVerifier [0x00007FF7420DE11F+211359]
+	GetHandleVerifier [0x00007FF7420C5294+109332]
+	GetHandleVerifier [0x00007FF7420C5442+109762]
+	GetHandleVerifier [0x00007FF7420ABA59+4825]
+	BaseThreadInitThunk [0x00007FFCA16DE8D7+23]
+	RtlUserThreadStart [0x00007FFCA28DC5DC+44]
+
+2025-05-25 15:52:17,106 - TestLogin - INFO - Ending Invalid Test
+2025-05-25 15:52:17,106 - TestLogin - INFO - ------------------------------
+2025-05-25 15:52:20,963 - TestLogin - INFO - ------------------------------
+2025-05-25 15:52:20,964 - TestLogin - INFO - Test started with username = 'error_user'
+2025-05-25 15:52:20,964 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:52:20,965 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:52:22,219 - LoginPage - INFO - Entering Username: error_user
+2025-05-25 15:52:22,336 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:52:22,424 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:52:32,608 - TestLogin - INFO - Error Occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h3[data-test='error']"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7420BCF45+75717]
+	GetHandleVerifier [0x00007FF7420BCFA0+75808]
+	(No symbol) [0x00007FF741E88F9A]
+	(No symbol) [0x00007FF741EDF4C6]
+	(No symbol) [0x00007FF741EDF77C]
+	(No symbol) [0x00007FF741F32577]
+	(No symbol) [0x00007FF741F073BF]
+	(No symbol) [0x00007FF741F2F39C]
+	(No symbol) [0x00007FF741F07153]
+	(No symbol) [0x00007FF741ED0421]
+	(No symbol) [0x00007FF741ED11B3]
+	GetHandleVerifier [0x00007FF7423BD71D+3223453]
+	GetHandleVerifier [0x00007FF7423B7CC2+3200322]
+	GetHandleVerifier [0x00007FF7423D5AF3+3322739]
+	GetHandleVerifier [0x00007FF7420D6A1A+180890]
+	GetHandleVerifier [0x00007FF7420DE11F+211359]
+	GetHandleVerifier [0x00007FF7420C5294+109332]
+	GetHandleVerifier [0x00007FF7420C5442+109762]
+	GetHandleVerifier [0x00007FF7420ABA59+4825]
+	BaseThreadInitThunk [0x00007FFCA16DE8D7+23]
+	RtlUserThreadStart [0x00007FFCA28DC5DC+44]
+
+2025-05-25 15:52:32,608 - TestLogin - INFO - Ending Invalid Test
+2025-05-25 15:52:32,608 - TestLogin - INFO - ------------------------------
+2025-05-25 15:52:36,483 - TestLogin - INFO - ------------------------------
+2025-05-25 15:52:36,483 - TestLogin - INFO - Test started with username = 'visual_user'
+2025-05-25 15:52:36,483 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:52:36,484 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:52:37,304 - LoginPage - INFO - Entering Username: visual_user
+2025-05-25 15:52:37,476 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:52:37,618 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:52:47,801 - TestLogin - INFO - Error Occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"h3[data-test='error']"}
+  (Session info: chrome=136.0.7103.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7420BCF45+75717]
+	GetHandleVerifier [0x00007FF7420BCFA0+75808]
+	(No symbol) [0x00007FF741E88F9A]
+	(No symbol) [0x00007FF741EDF4C6]
+	(No symbol) [0x00007FF741EDF77C]
+	(No symbol) [0x00007FF741F32577]
+	(No symbol) [0x00007FF741F073BF]
+	(No symbol) [0x00007FF741F2F39C]
+	(No symbol) [0x00007FF741F07153]
+	(No symbol) [0x00007FF741ED0421]
+	(No symbol) [0x00007FF741ED11B3]
+	GetHandleVerifier [0x00007FF7423BD71D+3223453]
+	GetHandleVerifier [0x00007FF7423B7CC2+3200322]
+	GetHandleVerifier [0x00007FF7423D5AF3+3322739]
+	GetHandleVerifier [0x00007FF7420D6A1A+180890]
+	GetHandleVerifier [0x00007FF7420DE11F+211359]
+	GetHandleVerifier [0x00007FF7420C5294+109332]
+	GetHandleVerifier [0x00007FF7420C5442+109762]
+	GetHandleVerifier [0x00007FF7420ABA59+4825]
+	BaseThreadInitThunk [0x00007FFCA16DE8D7+23]
+	RtlUserThreadStart [0x00007FFCA28DC5DC+44]
+
+2025-05-25 15:52:47,801 - TestLogin - INFO - Ending Invalid Test
+2025-05-25 15:52:47,801 - TestLogin - INFO - ------------------------------
+2025-05-25 15:54:59,686 - TestLogin - INFO - ------------------------------
+2025-05-25 15:54:59,688 - TestLogin - INFO - Test started with username = 'standard_user'
+2025-05-25 15:54:59,688 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:54:59,690 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:55:00,732 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:55:00,883 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:55:01,012 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:55:01,146 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:55:01,146 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:55:01,146 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:04,871 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:04,871 - TestLogin - INFO - Test started with username = 'problem_user'
+2025-05-25 15:55:04,871 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:55:04,872 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:55:06,232 - LoginPage - INFO - Entering Username: problem_user
+2025-05-25 15:55:06,351 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:55:06,509 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:55:06,660 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:55:06,660 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:55:06,660 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:10,438 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:10,439 - TestLogin - INFO - Test started with username = 'performance_glitch_user'
+2025-05-25 15:55:10,439 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:55:10,440 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:55:10,688 - LoginPage - INFO - Entering Username: performance_glitch_user
+2025-05-25 15:55:11,436 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:55:11,552 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:55:16,700 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:55:16,700 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:55:16,700 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:20,441 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:20,442 - TestLogin - INFO - Test started with username = 'error_user'
+2025-05-25 15:55:20,442 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:55:20,442 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:55:20,730 - LoginPage - INFO - Entering Username: error_user
+2025-05-25 15:55:21,384 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:55:21,490 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:55:21,646 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:55:21,646 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:55:21,646 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:25,472 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:25,473 - TestLogin - INFO - Test started with username = 'visual_user'
+2025-05-25 15:55:25,473 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:55:25,474 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:55:26,254 - LoginPage - INFO - Entering Username: visual_user
+2025-05-25 15:55:26,429 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:55:26,558 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:55:26,725 - TestLogin - INFO - Login Successful.Test Passed.
+2025-05-25 15:55:26,725 - TestLogin - INFO - Ending Login Test
+2025-05-25 15:55:26,725 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:30,470 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:30,470 - TestLogin - INFO - Test started with username = 'standard_user'
+2025-05-25 15:55:30,470 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:55:30,471 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:55:31,246 - LoginPage - INFO - Entering Username: standard_user
+2025-05-25 15:55:31,434 - LoginPage - INFO - Entering Password: asasdsad
+2025-05-25 15:55:31,546 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:55:31,691 - TestLogin - INFO - Login Test Passed for Invalid data.
+2025-05-25 15:55:31,692 - TestLogin - INFO - Ending Invalid Test
+2025-05-25 15:55:31,692 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:35,435 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:35,435 - TestLogin - INFO - Test started with username = 'weweqwe'
+2025-05-25 15:55:35,436 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:55:35,436 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:55:40,551 - LoginPage - INFO - Entering Username: weweqwe
+2025-05-25 15:55:40,653 - LoginPage - INFO - Entering Password: secret_sauce
+2025-05-25 15:55:40,739 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:55:40,865 - TestLogin - INFO - Login Test Passed for Invalid data.
+2025-05-25 15:55:40,865 - TestLogin - INFO - Ending Invalid Test
+2025-05-25 15:55:40,866 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:44,575 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:44,575 - TestLogin - INFO - Test started with username = 'asadasd'
+2025-05-25 15:55:44,575 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:55:44,576 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:55:45,419 - LoginPage - INFO - Entering Username: asadasd
+2025-05-25 15:55:45,550 - LoginPage - INFO - Entering Password: asdasdd
+2025-05-25 15:55:45,668 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:55:45,825 - TestLogin - INFO - Login Test Passed for Invalid data.
+2025-05-25 15:55:45,825 - TestLogin - INFO - Ending Invalid Test
+2025-05-25 15:55:45,825 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:49,676 - TestLogin - INFO - ------------------------------
+2025-05-25 15:55:49,676 - TestLogin - INFO - Test started with username = ''
+2025-05-25 15:55:49,676 - TestLogin - INFO - Staring valid Login Test
+2025-05-25 15:55:49,677 - LoginPage - INFO - Opening Login Page
+2025-05-25 15:55:50,535 - LoginPage - INFO - Entering Username: 
+2025-05-25 15:55:50,670 - LoginPage - INFO - Entering Password: 
+2025-05-25 15:55:50,802 - LoginPage - INFO - Clicking Login Button
+2025-05-25 15:55:50,948 - TestLogin - INFO - Bug: Login Test Failed for Invalid data.
+2025-05-25 15:55:50,948 - TestLogin - INFO - Ending Invalid Test
+2025-05-25 15:55:50,949 - TestLogin - INFO - ------------------------------
